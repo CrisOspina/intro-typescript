@@ -18,12 +18,12 @@
 
 
 - ¿Quienes usan TypeScript?
- - Microsoft
- - Google
- - Asana
- - Lyft
- - Palantir
- - Cientos de startups
+  - Microsoft
+  - Google
+  - Asana
+  - Lyft
+  - Palantir
+  - Cientos de startups
 
 
 
